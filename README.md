@@ -42,7 +42,6 @@ A lightweight **Web Application Security Scanner** built using **Python and Flas
 ## Installation & Setup
 
 ### Step 1: Clone the Repository
-```bash
 git clone https://github.com/adnan81204/Web-Application-Security-Scan
 cd Web-Application-Security-Scan
 
@@ -62,7 +61,7 @@ sudo apt install wkhtmltopdf
 python app.py
 Open your browser and visit:
 http://127.0.0.1:5000
-
+---
 ## Output
 templates/report.html → Detailed scan report
 report_pdf/report.pdf → Downloadable PDF security report
