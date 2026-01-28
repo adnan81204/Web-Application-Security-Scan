@@ -1,4 +1,4 @@
-# 🛡️ Web Application Security Scanner
+#  Web Application Security Scanner
 
 A lightweight **Web Application Security Scanner** built using **Python and Flask** that scans a target URL for common web vulnerabilities such as **SQL Injection**, **Cross-Site Scripting (XSS)**, and **Outdated JavaScript Libraries**, and generates a **detailed HTML and PDF security report**.
 
@@ -50,12 +50,12 @@ cd Web-Application-Security-Scan
 pip install -r requirements.txt
 
 ### Step 3: Install wkhtmltopdf (Required for PDF)
-Windows
+**Windows**
 Download from: https://wkhtmltopdf.org/downloads.html
 Install to:
 C:\tools\wkhtmltopdf\bin\wkhtmltopdf.exe
 
-Linux
+**Linux**
 sudo apt install wkhtmltopdf
 
 ### Step 4: Run the Application
